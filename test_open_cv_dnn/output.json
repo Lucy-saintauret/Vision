@@ -1,0 +1,9 @@
+{
+    "source": "dog.jpg",
+    "objects": [
+        {
+            "class": "dog",
+            "count": 1
+        }
+    ]
+}

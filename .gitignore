@@ -1,0 +1,4 @@
+venv_vision2025/
+Dataset/*/*/*.jpg
+Dataset/*/*/*.txt
+Dataset.zip
