@@ -1,6 +1,6 @@
 # G10_SAINT_AURET_LUCY
 
-# Rendu TP Vision 
+# Vision 
 
 Auteur : Lucy SAINT-AURET  
 Date début : 22/09/2025  
@@ -9,7 +9,7 @@ Date fin : 03/10/2025
 ## Sommaire 
 
 - [G10\_SAINT\_AURET\_LUCY](#g10_saint_auret_lucy)
-- [Rendu TP Vision](#rendu-tp-vision)
+- [Vision](#vision)
   - [Sommaire](#sommaire)
   - [Introduction](#introduction)
   - [Objectif](#objectif)
