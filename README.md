@@ -1,5 +1,3 @@
-# G10_SAINT_AURET_LUCY
-
 # Vision 
 
 Auteur : Lucy SAINT-AURET  
@@ -8,7 +6,6 @@ Date fin : 03/10/2025
 
 ## Sommaire 
 
-- [G10\_SAINT\_AURET\_LUCY](#g10_saint_auret_lucy)
 - [Vision](#vision)
   - [Sommaire](#sommaire)
   - [Introduction](#introduction)
